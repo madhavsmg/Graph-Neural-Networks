@@ -19,7 +19,7 @@ To run this notebook, you need to set up your environment with the required depe
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-username/graph-neural-networks.git](https://github.com/madhavsmg/Graph-Neural-Networks)
+   git clone https://github.com/madhavsmg/Graph-Neural-Networks.git
    cd graph-neural-networks
 
 
